@@ -65,22 +65,22 @@
 
 
 - 🌐 HTML
-- ⚡ Phython
-- 🔀 Git e GitHub
-- 📡 Redes de Computadores
-- 💻 Fundamentos e Arquitetura de Computadores
-- 📐 Matemática Aplicada à Computação
+- ⚡ Phython.
+- 🔀 Git e GitHub.
+- 📡 Redes de Computadores.
+- 💻 Fundamentos e Arquitetura de Computadores.
+- 📐 Matemática Aplicada à Computação.
 
 
 ---
 
 # 🎯 | Objetivos
 
-- 🚀 Conseguir minha primeira oportunidade na área de TI
-- 📚 Evoluir constantemente como desenvolvedor
-- 💡 Criar projetos completos para meu portfólio
-- 🤝 Contribuir para projetos
-- 🌎 Aprender novas tecnologias
+- 🚀 Conseguir minha primeira oportunidade na área de TI.
+- 📚 Evoluir constantemente como desenvolvedor.
+- 💡 Criar projetos para aumentar meu portfólio.
+- 🤝 Contribuir para projetos.
+- 🌎 Aprender novas tecnologias.
 
 ---
 
