@@ -9,8 +9,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=GabriCtlv&style=for-the-badge&color=2563EB)
-
 </div>
 
 ---
