@@ -65,7 +65,7 @@
 
 
 - 🌐 HTML
-- ⚡ Phython.
+- ⚡ Python.
 - 🔀 Git e GitHub.
 - 📡 Redes de Computadores.
 - 💻 Fundamentos e Arquitetura de Computadores.
